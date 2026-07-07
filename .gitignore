@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Client
+run/
+.minecraft/

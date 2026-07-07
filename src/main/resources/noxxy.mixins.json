@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.noxxy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EntityMixin",
+    "PlayerEntityMixin",
+    "GameRendererMixin",
+    "WorldRendererMixin",
+    "ClientPlayerInteractionManagerMixin"
+  ],
+  "client": [
+    "EntityMixin",
+    "PlayerEntityMixin",
+    "GameRendererMixin",
+    "WorldRendererMixin",
+    "ClientPlayerInteractionManagerMixin"
+  ]
+}
